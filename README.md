@@ -7,7 +7,7 @@ The guide covers the second half of the course: MapReduce algorithm design, pena
 regression solved by ADMM in a distributed setting, support vector machines, and random
 forests.
 
-📄 **[AMS578_Final_Guide.pdf](AMS578_Final_Guide.pdf)** — the compiled guide
+📄 **[AMS598_Final_Guide.pdf](AMS598_Final_Guide.pdf)** — the compiled guide
 📝 **[main.tex](main.tex)** — LaTeX source
 
 ---
